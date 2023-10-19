@@ -2,7 +2,7 @@
 #### I'm currently learning Data Science and computer vision✨
 <div><p>__________________________________________________________________________________</p></div>
 
-### [💻🌱 I am frequently using these technologies ](#-languages-)
+### 💻🌱 I am frequently using these technologies 
 
 <div style= "display : inline_block"  >
    <img align= "center" alt="Git" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
