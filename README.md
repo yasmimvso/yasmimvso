@@ -2,7 +2,7 @@
 <div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Ola, sou Yasmim ❤️ </div>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>Sou apaixonada em descobrir coisas novas</strong>, envolvendo várias áreas das tecnologias. Atualmente, sou uma <strong>desenvoledora de software </strong> junior focada em aplicação web.</p>&nbsp;
+<p align="center"><strong>Sou apaixonada em descobrir coisas novas</strong>, envolvendo várias áreas das tecnologias. Atualmente, estou como <strong>desenvoledora de software </strong> junior focada em aplicação web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px; display: flex; flex-direction: raw;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
