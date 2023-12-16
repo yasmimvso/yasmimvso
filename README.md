@@ -7,7 +7,7 @@
 <div  align="center" style="margin-bottom:100px; display: flex; flex-direction: raw;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
 <!--<img width=40% align="center" src="https://github-readme-stats-git-main-yasmimvso.vercel.app/api/top-langs/?username=yasmimvso&show_icons=true&theme=radical&layout=compact" />-->
-<img  width=40% style="margin-left: 1%; color: purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimvso&layout=compact&theme=radical" alt="Top Languages">
+<img  width=40% align="center" style="margin-left: 1%; color: purple;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimvso&layout=compact&theme=radical" alt="Top Languages">
 
 </div>
  
