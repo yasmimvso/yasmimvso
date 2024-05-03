@@ -1,5 +1,5 @@
 
-<div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Ola, sou Yasmim ❤️ </div>
+<div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Ola, sou Yasmim </div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><strong>Sou apaixonada em descobrir coisas novas</strong>, envolvendo várias áreas da tecnologia. Atualmente, estou como <strong>desenvoledora de software </strong> junior focada em aplicações web.</p>&nbsp;
