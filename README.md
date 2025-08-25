@@ -2,7 +2,7 @@
 <div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Hey, sou Yasmim!</div>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>Naturally curious and a technology enthusiast. I'm currently focused on honing my skills in software development and exploring the fascinating world of data science.</p>&nbsp;
+<p align="center">Naturally curious and a technology enthusiast. I'm currently focused on honing my skills in software development and exploring the fascinating world of data science.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px; display: flex; flex-direction: raw;">
 <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" /> -->
