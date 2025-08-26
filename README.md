@@ -1,5 +1,5 @@
 
-<div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Hey, sou Yasmim!</div>
+<div align="center" style="margin-bottom:100px; width=100%; padding: 50px; background-color: purple;">Hey, I'm Yasmim!</div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Naturally curious and a technology enthusiast. I'm currently focused on honing my skills in software development and exploring the fascinating world of data science.</p>&nbsp;
